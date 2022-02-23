@@ -1,2 +1,3 @@
 # Algo-Visualizer
-Created a program that visualizes popular sorting algo such as bub and in
+Program visualizes popular sorting algorithms such as Bubble sort and Insertion sort. Bars of various lengths can be sorted in ascending or descending order; the Program is displayed on a window.                                                                                                                                                                                                                                                                                                                                       
+Used Pygame for the visuals and utilized functions containing loops and if-statements to implement the sorting algorithms.
